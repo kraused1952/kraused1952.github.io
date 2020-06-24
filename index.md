@@ -7,3 +7,5 @@ Batman ist einer der wenigen Helden ohne Superkräfte und nur durch Kraft sowie 
 * Der Riddler
 * Der Pinguin
 * Scarecrow
+
+> Ich bin Batman.
