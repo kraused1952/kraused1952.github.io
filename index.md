@@ -9,3 +9,5 @@ Batman ist einer der wenigen Helden ohne Superkräfte und nur durch Kraft sowie 
 * Scarecrow
 
 > Ich bin Batman.
+
+<img src="https://findicons.com/files/icons/604/batman_begins/128/batman.png"/>
